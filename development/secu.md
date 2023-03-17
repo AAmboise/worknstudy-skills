@@ -6,28 +6,28 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- Le rôle de l'OWASP ❌ / ✔️
-- Les injections SQL ❌ / ✔️
-- XSS ❌ / ✔️
-- CRSF ❌ / ✔️
+- Le rôle de l'OWASP  ✔️ -> communauté qui travaille sur la sécurité des apps Web.
+- Les injections SQL  ✔️ -> envoi du code malveillant dans une requete SQL
+- XSS  ✔️ -> Cross-Site Scripting: injection de contenu maveillant dans une page web
+- CRSF  ✔️ -> Cross-Site Request Forgery: se faire passer pour un utilisateur
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ❌ 
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ❌ 
 
 [lien github](...)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌ 
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌ 
 
 Description :
 
